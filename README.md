@@ -110,13 +110,13 @@ output:
 -rw-r--r--@ 1 rnvsrivastava  staff  17408 Mar 13 08:55 ./sample.tar
 -rw-r--r--  1 rnvsrivastava  staff   1341 Mar 12 16:25 ./sample/sample 2.c
 -rw-r--r--  1 rnvsrivastava  staff   1341 Mar 12 16:25 ./sample/sample.c
+  ```
   
-  
-  
- input: ./a.out -e "ls -l" -S
+  ```
+input: ./a.out -e "ls -l" -S
   
  ** 
- output: ** 
+output: ** 
   �� (.DS_Store)size: 6148
 �� (sample.tar)size: 17408
 �� (jpg.tar)size: 52224
