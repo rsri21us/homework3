@@ -44,9 +44,7 @@ combination of these options. For example: -S, -s 1024, -f jpg, -S -s 1024, -S -
 match both criteria. The order of the options should not matter. 
 8. -t d will display the directories
   -t f will display all the files
-  
-9. In addition to this, 
-  
+
 # Getting started
 These instructions will give you a copy of the project up and running on your local machine for development and testing purposes.
 # prerequisites
